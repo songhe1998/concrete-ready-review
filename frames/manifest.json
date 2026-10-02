@@ -1,0 +1,2416 @@
+{
+  "startMinute": 17,
+  "endMinute": 359,
+  "count": 343,
+  "crop": {
+    "x": 300,
+    "y": 250,
+    "width": 760,
+    "height": 520,
+    "sourceWidth": 1280,
+    "sourceHeight": 800
+  },
+  "frames": [
+    {
+      "minute": 17,
+      "actualSeconds": 1020.01301,
+      "sourceFrameId": 57923,
+      "timestampNs": "1790203815794917000",
+      "delaySeconds": 0.013009999999999999
+    },
+    {
+      "minute": 18,
+      "actualSeconds": 1080.010835,
+      "sourceFrameId": 61509,
+      "timestampNs": "1790203875792742000",
+      "delaySeconds": 0.010835000000000001
+    },
+    {
+      "minute": 19,
+      "actualSeconds": 1140.008831,
+      "sourceFrameId": 65094,
+      "timestampNs": "1790203935790738000",
+      "delaySeconds": 0.008831
+    },
+    {
+      "minute": 20,
+      "actualSeconds": 1200.006401,
+      "sourceFrameId": 68687,
+      "timestampNs": "1790203995788308000",
+      "delaySeconds": 0.006401
+    },
+    {
+      "minute": 21,
+      "actualSeconds": 1260.004515,
+      "sourceFrameId": 72265,
+      "timestampNs": "1790204055786422000",
+      "delaySeconds": 0.004515
+    },
+    {
+      "minute": 22,
+      "actualSeconds": 1320.002002,
+      "sourceFrameId": 75852,
+      "timestampNs": "1790204115783909000",
+      "delaySeconds": 0.002002
+    },
+    {
+      "minute": 23,
+      "actualSeconds": 1380.016454,
+      "sourceFrameId": 79439,
+      "timestampNs": "1790204175798361000",
+      "delaySeconds": 0.016454
+    },
+    {
+      "minute": 24,
+      "actualSeconds": 1440.01428,
+      "sourceFrameId": 83017,
+      "timestampNs": "1790204235796187000",
+      "delaySeconds": 0.01428
+    },
+    {
+      "minute": 25,
+      "actualSeconds": 1500.012798,
+      "sourceFrameId": 86600,
+      "timestampNs": "1790204295794705000",
+      "delaySeconds": 0.012798
+    },
+    {
+      "minute": 26,
+      "actualSeconds": 1560.009854,
+      "sourceFrameId": 90180,
+      "timestampNs": "1790204355791761000",
+      "delaySeconds": 0.009854
+    },
+    {
+      "minute": 27,
+      "actualSeconds": 1620.007634,
+      "sourceFrameId": 93760,
+      "timestampNs": "1790204415789541000",
+      "delaySeconds": 0.007634
+    },
+    {
+      "minute": 28,
+      "actualSeconds": 1680.005518,
+      "sourceFrameId": 97348,
+      "timestampNs": "1790204475787425000",
+      "delaySeconds": 0.0055179999999999995
+    },
+    {
+      "minute": 29,
+      "actualSeconds": 1740.003278,
+      "sourceFrameId": 100931,
+      "timestampNs": "1790204535785185000",
+      "delaySeconds": 0.003278
+    },
+    {
+      "minute": 30,
+      "actualSeconds": 1800.001028,
+      "sourceFrameId": 104513,
+      "timestampNs": "1790204595782935000",
+      "delaySeconds": 0.001028
+    },
+    {
+      "minute": 31,
+      "actualSeconds": 1860.01565,
+      "sourceFrameId": 108100,
+      "timestampNs": "1790204655797557000",
+      "delaySeconds": 0.01565
+    },
+    {
+      "minute": 32,
+      "actualSeconds": 1920.013272,
+      "sourceFrameId": 111523,
+      "timestampNs": "1790204715795179000",
+      "delaySeconds": 0.013272
+    },
+    {
+      "minute": 33,
+      "actualSeconds": 1980.01107,
+      "sourceFrameId": 115010,
+      "timestampNs": "1790204775792977000",
+      "delaySeconds": 0.01107
+    },
+    {
+      "minute": 34,
+      "actualSeconds": 2040.008893,
+      "sourceFrameId": 118425,
+      "timestampNs": "1790204835790800000",
+      "delaySeconds": 0.008893
+    },
+    {
+      "minute": 35,
+      "actualSeconds": 2100.00669,
+      "sourceFrameId": 121912,
+      "timestampNs": "1790204895788597000",
+      "delaySeconds": 0.006690000000000001
+    },
+    {
+      "minute": 36,
+      "actualSeconds": 2160.004534,
+      "sourceFrameId": 125403,
+      "timestampNs": "1790204955786441000",
+      "delaySeconds": 0.004534
+    },
+    {
+      "minute": 37,
+      "actualSeconds": 2220.002267,
+      "sourceFrameId": 128855,
+      "timestampNs": "1790205015784174000",
+      "delaySeconds": 0.002267
+    },
+    {
+      "minute": 38,
+      "actualSeconds": 2280.00006,
+      "sourceFrameId": 132362,
+      "timestampNs": "1790205075781967000",
+      "delaySeconds": 5.9999999999999995e-05
+    },
+    {
+      "minute": 39,
+      "actualSeconds": 2340.014558,
+      "sourceFrameId": 135884,
+      "timestampNs": "1790205135796465000",
+      "delaySeconds": 0.014558
+    },
+    {
+      "minute": 40,
+      "actualSeconds": 2400.012347,
+      "sourceFrameId": 139368,
+      "timestampNs": "1790205195794254000",
+      "delaySeconds": 0.012347
+    },
+    {
+      "minute": 41,
+      "actualSeconds": 2460.010171,
+      "sourceFrameId": 142841,
+      "timestampNs": "1790205255792078000",
+      "delaySeconds": 0.010171
+    },
+    {
+      "minute": 42,
+      "actualSeconds": 2520.007941,
+      "sourceFrameId": 146337,
+      "timestampNs": "1790205315789848000",
+      "delaySeconds": 0.007941
+    },
+    {
+      "minute": 43,
+      "actualSeconds": 2580.005722,
+      "sourceFrameId": 149794,
+      "timestampNs": "1790205375787629000",
+      "delaySeconds": 0.0057220000000000005
+    },
+    {
+      "minute": 44,
+      "actualSeconds": 2640.003514,
+      "sourceFrameId": 153181,
+      "timestampNs": "1790205435785421000",
+      "delaySeconds": 0.0035139999999999998
+    },
+    {
+      "minute": 45,
+      "actualSeconds": 2700.801268,
+      "sourceFrameId": 156584,
+      "timestampNs": "1790205496583175000",
+      "delaySeconds": 0.801268
+    },
+    {
+      "minute": 46,
+      "actualSeconds": 2760.016113,
+      "sourceFrameId": 160036,
+      "timestampNs": "1790205555798020000",
+      "delaySeconds": 0.016113
+    },
+    {
+      "minute": 47,
+      "actualSeconds": 2820.013627,
+      "sourceFrameId": 163160,
+      "timestampNs": "1790205615795534000",
+      "delaySeconds": 0.013627
+    },
+    {
+      "minute": 48,
+      "actualSeconds": 2880.011387,
+      "sourceFrameId": 166646,
+      "timestampNs": "1790205675793294000",
+      "delaySeconds": 0.011387000000000001
+    },
+    {
+      "minute": 49,
+      "actualSeconds": 2940.009178,
+      "sourceFrameId": 170059,
+      "timestampNs": "1790205735791085000",
+      "delaySeconds": 0.009178
+    },
+    {
+      "minute": 50,
+      "actualSeconds": 3000.007025,
+      "sourceFrameId": 173474,
+      "timestampNs": "1790205795788932000",
+      "delaySeconds": 0.007025
+    },
+    {
+      "minute": 51,
+      "actualSeconds": 3060.004778,
+      "sourceFrameId": 176951,
+      "timestampNs": "1790205855786685000",
+      "delaySeconds": 0.004777999999999999
+    },
+    {
+      "minute": 52,
+      "actualSeconds": 3120.002894,
+      "sourceFrameId": 180397,
+      "timestampNs": "1790205915784801000",
+      "delaySeconds": 0.0028940000000000003
+    },
+    {
+      "minute": 53,
+      "actualSeconds": 3180.000373,
+      "sourceFrameId": 183894,
+      "timestampNs": "1790205975782280000",
+      "delaySeconds": 0.000373
+    },
+    {
+      "minute": 54,
+      "actualSeconds": 3240.014855,
+      "sourceFrameId": 187312,
+      "timestampNs": "1790206035796762000",
+      "delaySeconds": 0.014855
+    },
+    {
+      "minute": 55,
+      "actualSeconds": 3300.012643,
+      "sourceFrameId": 190782,
+      "timestampNs": "1790206095794550000",
+      "delaySeconds": 0.012643000000000001
+    },
+    {
+      "minute": 56,
+      "actualSeconds": 3360.011258,
+      "sourceFrameId": 194198,
+      "timestampNs": "1790206155793165000",
+      "delaySeconds": 0.011257999999999999
+    },
+    {
+      "minute": 57,
+      "actualSeconds": 3420.008236,
+      "sourceFrameId": 197686,
+      "timestampNs": "1790206215790143000",
+      "delaySeconds": 0.008236
+    },
+    {
+      "minute": 58,
+      "actualSeconds": 3480.006038,
+      "sourceFrameId": 201135,
+      "timestampNs": "1790206275787945000",
+      "delaySeconds": 0.006038
+    },
+    {
+      "minute": 59,
+      "actualSeconds": 3540.003825,
+      "sourceFrameId": 204636,
+      "timestampNs": "1790206335785732000",
+      "delaySeconds": 0.0038250000000000003
+    },
+    {
+      "minute": 60,
+      "actualSeconds": 3600.001645,
+      "sourceFrameId": 208121,
+      "timestampNs": "1790206395783552000",
+      "delaySeconds": 0.001645
+    },
+    {
+      "minute": 61,
+      "actualSeconds": 3660.016132,
+      "sourceFrameId": 211573,
+      "timestampNs": "1790206455798039000",
+      "delaySeconds": 0.016132
+    },
+    {
+      "minute": 62,
+      "actualSeconds": 3720.013892,
+      "sourceFrameId": 214741,
+      "timestampNs": "1790206515795799000",
+      "delaySeconds": 0.013892
+    },
+    {
+      "minute": 63,
+      "actualSeconds": 3780.011688,
+      "sourceFrameId": 218221,
+      "timestampNs": "1790206575793595000",
+      "delaySeconds": 0.011688
+    },
+    {
+      "minute": 64,
+      "actualSeconds": 3840.009476,
+      "sourceFrameId": 221698,
+      "timestampNs": "1790206635791383000",
+      "delaySeconds": 0.009476
+    },
+    {
+      "minute": 65,
+      "actualSeconds": 3900.007297,
+      "sourceFrameId": 225153,
+      "timestampNs": "1790206695789204000",
+      "delaySeconds": 0.007297
+    },
+    {
+      "minute": 66,
+      "actualSeconds": 3960.005122,
+      "sourceFrameId": 228580,
+      "timestampNs": "1790206755787029000",
+      "delaySeconds": 0.005122
+    },
+    {
+      "minute": 67,
+      "actualSeconds": 4020.002882,
+      "sourceFrameId": 231986,
+      "timestampNs": "1790206815784789000",
+      "delaySeconds": 0.002882
+    },
+    {
+      "minute": 68,
+      "actualSeconds": 4080.000702,
+      "sourceFrameId": 235493,
+      "timestampNs": "1790206875782609000",
+      "delaySeconds": 0.0007019999999999999
+    },
+    {
+      "minute": 69,
+      "actualSeconds": 4140.015151,
+      "sourceFrameId": 238989,
+      "timestampNs": "1790206935797058000",
+      "delaySeconds": 0.015151
+    },
+    {
+      "minute": 70,
+      "actualSeconds": 4200.012989,
+      "sourceFrameId": 242455,
+      "timestampNs": "1790206995794896000",
+      "delaySeconds": 0.012989
+    },
+    {
+      "minute": 71,
+      "actualSeconds": 4260.010751,
+      "sourceFrameId": 245918,
+      "timestampNs": "1790207055792658000",
+      "delaySeconds": 0.010751
+    },
+    {
+      "minute": 72,
+      "actualSeconds": 4320.012862,
+      "sourceFrameId": 249426,
+      "timestampNs": "1790207115794769000",
+      "delaySeconds": 0.012862
+    },
+    {
+      "minute": 73,
+      "actualSeconds": 4380.006344,
+      "sourceFrameId": 252792,
+      "timestampNs": "1790207175788251000",
+      "delaySeconds": 0.006344000000000001
+    },
+    {
+      "minute": 74,
+      "actualSeconds": 4440.004188,
+      "sourceFrameId": 256206,
+      "timestampNs": "1790207235786095000",
+      "delaySeconds": 0.004188
+    },
+    {
+      "minute": 75,
+      "actualSeconds": 4500.002122,
+      "sourceFrameId": 259674,
+      "timestampNs": "1790207295784029000",
+      "delaySeconds": 0.0021219999999999998
+    },
+    {
+      "minute": 76,
+      "actualSeconds": 4560.018179,
+      "sourceFrameId": 263084,
+      "timestampNs": "1790207355800086000",
+      "delaySeconds": 0.018178999999999997
+    },
+    {
+      "minute": 77,
+      "actualSeconds": 4620.014389,
+      "sourceFrameId": 266671,
+      "timestampNs": "1790207415796296000",
+      "delaySeconds": 0.014388999999999999
+    },
+    {
+      "minute": 78,
+      "actualSeconds": 4680.012036,
+      "sourceFrameId": 270164,
+      "timestampNs": "1790207475793943000",
+      "delaySeconds": 0.012036
+    },
+    {
+      "minute": 79,
+      "actualSeconds": 4740.009805,
+      "sourceFrameId": 273690,
+      "timestampNs": "1790207535791712000",
+      "delaySeconds": 0.009805
+    },
+    {
+      "minute": 80,
+      "actualSeconds": 4800.007809,
+      "sourceFrameId": 277165,
+      "timestampNs": "1790207595789716000",
+      "delaySeconds": 0.007809
+    },
+    {
+      "minute": 81,
+      "actualSeconds": 4860.005466,
+      "sourceFrameId": 280672,
+      "timestampNs": "1790207655787373000",
+      "delaySeconds": 0.005466
+    },
+    {
+      "minute": 82,
+      "actualSeconds": 4920.003216,
+      "sourceFrameId": 284145,
+      "timestampNs": "1790207715785123000",
+      "delaySeconds": 0.003216
+    },
+    {
+      "minute": 83,
+      "actualSeconds": 4980.001081,
+      "sourceFrameId": 287704,
+      "timestampNs": "1790207775782988000",
+      "delaySeconds": 0.001081
+    },
+    {
+      "minute": 84,
+      "actualSeconds": 5040.015616,
+      "sourceFrameId": 291154,
+      "timestampNs": "1790207835797523000",
+      "delaySeconds": 0.015616
+    },
+    {
+      "minute": 85,
+      "actualSeconds": 5100.013317,
+      "sourceFrameId": 294554,
+      "timestampNs": "1790207895795224000",
+      "delaySeconds": 0.013317
+    },
+    {
+      "minute": 86,
+      "actualSeconds": 5160.011091,
+      "sourceFrameId": 297984,
+      "timestampNs": "1790207955792998000",
+      "delaySeconds": 0.011091
+    },
+    {
+      "minute": 87,
+      "actualSeconds": 5220.00886,
+      "sourceFrameId": 301386,
+      "timestampNs": "1790208015790767000",
+      "delaySeconds": 0.00886
+    },
+    {
+      "minute": 88,
+      "actualSeconds": 5280.006675,
+      "sourceFrameId": 304797,
+      "timestampNs": "1790208075788582000",
+      "delaySeconds": 0.0066749999999999995
+    },
+    {
+      "minute": 89,
+      "actualSeconds": 5340.004481,
+      "sourceFrameId": 308384,
+      "timestampNs": "1790208135786388000",
+      "delaySeconds": 0.004481
+    },
+    {
+      "minute": 90,
+      "actualSeconds": 5400.002278,
+      "sourceFrameId": 311970,
+      "timestampNs": "1790208195784185000",
+      "delaySeconds": 0.002278
+    },
+    {
+      "minute": 91,
+      "actualSeconds": 5460.000063,
+      "sourceFrameId": 315556,
+      "timestampNs": "1790208255781970000",
+      "delaySeconds": 6.3e-05
+    },
+    {
+      "minute": 92,
+      "actualSeconds": 5520.014554,
+      "sourceFrameId": 319143,
+      "timestampNs": "1790208315796461000",
+      "delaySeconds": 0.014554000000000001
+    },
+    {
+      "minute": 93,
+      "actualSeconds": 5580.012327,
+      "sourceFrameId": 322729,
+      "timestampNs": "1790208375794234000",
+      "delaySeconds": 0.012327
+    },
+    {
+      "minute": 94,
+      "actualSeconds": 5640.010197,
+      "sourceFrameId": 326313,
+      "timestampNs": "1790208435792104000",
+      "delaySeconds": 0.010197
+    },
+    {
+      "minute": 95,
+      "actualSeconds": 5700.007913,
+      "sourceFrameId": 329763,
+      "timestampNs": "1790208495789820000",
+      "delaySeconds": 0.007913
+    },
+    {
+      "minute": 96,
+      "actualSeconds": 5760.005715,
+      "sourceFrameId": 333178,
+      "timestampNs": "1790208555787622000",
+      "delaySeconds": 0.005715
+    },
+    {
+      "minute": 97,
+      "actualSeconds": 5820.203509,
+      "sourceFrameId": 336629,
+      "timestampNs": "1790208615985416000",
+      "delaySeconds": 0.203509
+    },
+    {
+      "minute": 98,
+      "actualSeconds": 5880.001342,
+      "sourceFrameId": 339940,
+      "timestampNs": "1790208675783249000",
+      "delaySeconds": 0.001342
+    },
+    {
+      "minute": 99,
+      "actualSeconds": 5940.015818,
+      "sourceFrameId": 343527,
+      "timestampNs": "1790208735797725000",
+      "delaySeconds": 0.015818
+    },
+    {
+      "minute": 100,
+      "actualSeconds": 6000.013573,
+      "sourceFrameId": 347114,
+      "timestampNs": "1790208795795480000",
+      "delaySeconds": 0.013573
+    },
+    {
+      "minute": 101,
+      "actualSeconds": 6060.011376,
+      "sourceFrameId": 350700,
+      "timestampNs": "1790208855793283000",
+      "delaySeconds": 0.011375999999999999
+    },
+    {
+      "minute": 102,
+      "actualSeconds": 6120.009778,
+      "sourceFrameId": 354284,
+      "timestampNs": "1790208915791685000",
+      "delaySeconds": 0.009778
+    },
+    {
+      "minute": 103,
+      "actualSeconds": 6180.007197,
+      "sourceFrameId": 357738,
+      "timestampNs": "1790208975789104000",
+      "delaySeconds": 0.007197
+    },
+    {
+      "minute": 104,
+      "actualSeconds": 6240.004831,
+      "sourceFrameId": 361134,
+      "timestampNs": "1790209035786738000",
+      "delaySeconds": 0.004831
+    },
+    {
+      "minute": 105,
+      "actualSeconds": 6300.002812,
+      "sourceFrameId": 364581,
+      "timestampNs": "1790209095784719000",
+      "delaySeconds": 0.002812
+    },
+    {
+      "minute": 106,
+      "actualSeconds": 6360.000358,
+      "sourceFrameId": 367936,
+      "timestampNs": "1790209155782265000",
+      "delaySeconds": 0.000358
+    },
+    {
+      "minute": 107,
+      "actualSeconds": 6420.014871,
+      "sourceFrameId": 371272,
+      "timestampNs": "1790209215796778000",
+      "delaySeconds": 0.014871
+    },
+    {
+      "minute": 108,
+      "actualSeconds": 6480.012644,
+      "sourceFrameId": 374750,
+      "timestampNs": "1790209275794551000",
+      "delaySeconds": 0.012644
+    },
+    {
+      "minute": 109,
+      "actualSeconds": 6540.010413,
+      "sourceFrameId": 378203,
+      "timestampNs": "1790209335792320000",
+      "delaySeconds": 0.010413
+    },
+    {
+      "minute": 110,
+      "actualSeconds": 6600.008234,
+      "sourceFrameId": 381176,
+      "timestampNs": "1790209395790141000",
+      "delaySeconds": 0.008234
+    },
+    {
+      "minute": 111,
+      "actualSeconds": 6660.006032,
+      "sourceFrameId": 384582,
+      "timestampNs": "1790209455787939000",
+      "delaySeconds": 0.006032
+    },
+    {
+      "minute": 112,
+      "actualSeconds": 6720.003855,
+      "sourceFrameId": 388167,
+      "timestampNs": "1790209515785762000",
+      "delaySeconds": 0.003855
+    },
+    {
+      "minute": 113,
+      "actualSeconds": 6780.001617,
+      "sourceFrameId": 391739,
+      "timestampNs": "1790209575783524000",
+      "delaySeconds": 0.001617
+    },
+    {
+      "minute": 114,
+      "actualSeconds": 6840.01622,
+      "sourceFrameId": 395157,
+      "timestampNs": "1790209635798127000",
+      "delaySeconds": 0.01622
+    },
+    {
+      "minute": 115,
+      "actualSeconds": 6900.197221,
+      "sourceFrameId": 398568,
+      "timestampNs": "1790209695979128000",
+      "delaySeconds": 0.197221
+    },
+    {
+      "minute": 116,
+      "actualSeconds": 6960.011696,
+      "sourceFrameId": 402102,
+      "timestampNs": "1790209755793603000",
+      "delaySeconds": 0.011696
+    },
+    {
+      "minute": 117,
+      "actualSeconds": 7020.009511,
+      "sourceFrameId": 405522,
+      "timestampNs": "1790209815791418000",
+      "delaySeconds": 0.009510999999999999
+    },
+    {
+      "minute": 118,
+      "actualSeconds": 7080.00731,
+      "sourceFrameId": 408900,
+      "timestampNs": "1790209875789217000",
+      "delaySeconds": 0.00731
+    },
+    {
+      "minute": 119,
+      "actualSeconds": 7140.005076,
+      "sourceFrameId": 412382,
+      "timestampNs": "1790209935786983000",
+      "delaySeconds": 0.005076
+    },
+    {
+      "minute": 120,
+      "actualSeconds": 7200.002905,
+      "sourceFrameId": 415340,
+      "timestampNs": "1790209995784812000",
+      "delaySeconds": 0.0029049999999999996
+    },
+    {
+      "minute": 121,
+      "actualSeconds": 7260.000703,
+      "sourceFrameId": 418918,
+      "timestampNs": "1790210055782610000",
+      "delaySeconds": 0.000703
+    },
+    {
+      "minute": 122,
+      "actualSeconds": 7320.01555,
+      "sourceFrameId": 422504,
+      "timestampNs": "1790210115797457000",
+      "delaySeconds": 0.015550000000000001
+    },
+    {
+      "minute": 123,
+      "actualSeconds": 7380.013153,
+      "sourceFrameId": 425920,
+      "timestampNs": "1790210175795060000",
+      "delaySeconds": 0.013153
+    },
+    {
+      "minute": 124,
+      "actualSeconds": 7440.010777,
+      "sourceFrameId": 429332,
+      "timestampNs": "1790210235792684000",
+      "delaySeconds": 0.010776999999999998
+    },
+    {
+      "minute": 125,
+      "actualSeconds": 7500.008542,
+      "sourceFrameId": 432799,
+      "timestampNs": "1790210295790449000",
+      "delaySeconds": 0.008542
+    },
+    {
+      "minute": 126,
+      "actualSeconds": 7560.006358,
+      "sourceFrameId": 436186,
+      "timestampNs": "1790210355788265000",
+      "delaySeconds": 0.006358
+    },
+    {
+      "minute": 127,
+      "actualSeconds": 7620.004156,
+      "sourceFrameId": 439604,
+      "timestampNs": "1790210415786063000",
+      "delaySeconds": 0.004156
+    },
+    {
+      "minute": 128,
+      "actualSeconds": 7680.635279,
+      "sourceFrameId": 443013,
+      "timestampNs": "1790210476417186000",
+      "delaySeconds": 0.635279
+    },
+    {
+      "minute": 129,
+      "actualSeconds": 7740.016419,
+      "sourceFrameId": 446283,
+      "timestampNs": "1790210535798326000",
+      "delaySeconds": 0.016419
+    },
+    {
+      "minute": 130,
+      "actualSeconds": 7800.01454,
+      "sourceFrameId": 449621,
+      "timestampNs": "1790210595796447000",
+      "delaySeconds": 0.014539999999999999
+    },
+    {
+      "minute": 131,
+      "actualSeconds": 7860.012034,
+      "sourceFrameId": 453210,
+      "timestampNs": "1790210655793941000",
+      "delaySeconds": 0.012034000000000001
+    },
+    {
+      "minute": 132,
+      "actualSeconds": 7920.009841,
+      "sourceFrameId": 456560,
+      "timestampNs": "1790210715791748000",
+      "delaySeconds": 0.009840999999999999
+    },
+    {
+      "minute": 133,
+      "actualSeconds": 7980.007629,
+      "sourceFrameId": 460041,
+      "timestampNs": "1790210775789536000",
+      "delaySeconds": 0.0076289999999999995
+    },
+    {
+      "minute": 134,
+      "actualSeconds": 8040.005431,
+      "sourceFrameId": 463628,
+      "timestampNs": "1790210835787338000",
+      "delaySeconds": 0.005431
+    },
+    {
+      "minute": 135,
+      "actualSeconds": 8100.003241,
+      "sourceFrameId": 467119,
+      "timestampNs": "1790210895785148000",
+      "delaySeconds": 0.003241
+    },
+    {
+      "minute": 136,
+      "actualSeconds": 8160.017699,
+      "sourceFrameId": 470533,
+      "timestampNs": "1790210955799606000",
+      "delaySeconds": 0.017699000000000003
+    },
+    {
+      "minute": 137,
+      "actualSeconds": 8220.015663,
+      "sourceFrameId": 474017,
+      "timestampNs": "1790211015797570000",
+      "delaySeconds": 0.015663
+    },
+    {
+      "minute": 138,
+      "actualSeconds": 8280.013285,
+      "sourceFrameId": 477428,
+      "timestampNs": "1790211075795192000",
+      "delaySeconds": 0.013285
+    },
+    {
+      "minute": 139,
+      "actualSeconds": 8340.0111,
+      "sourceFrameId": 480788,
+      "timestampNs": "1790211135793007000",
+      "delaySeconds": 0.0111
+    },
+    {
+      "minute": 140,
+      "actualSeconds": 8400.00907,
+      "sourceFrameId": 484268,
+      "timestampNs": "1790211195790977000",
+      "delaySeconds": 0.00907
+    },
+    {
+      "minute": 141,
+      "actualSeconds": 8460.006689,
+      "sourceFrameId": 487452,
+      "timestampNs": "1790211255788596000",
+      "delaySeconds": 0.006689
+    },
+    {
+      "minute": 142,
+      "actualSeconds": 8520.004481,
+      "sourceFrameId": 491015,
+      "timestampNs": "1790211315786388000",
+      "delaySeconds": 0.004481
+    },
+    {
+      "minute": 143,
+      "actualSeconds": 8580.002299,
+      "sourceFrameId": 494585,
+      "timestampNs": "1790211375784206000",
+      "delaySeconds": 0.002299
+    },
+    {
+      "minute": 144,
+      "actualSeconds": 8643.749946,
+      "sourceFrameId": 497713,
+      "timestampNs": "1790211439531853000",
+      "delaySeconds": 3.749946
+    },
+    {
+      "minute": 145,
+      "actualSeconds": 8700.014578,
+      "sourceFrameId": 500965,
+      "timestampNs": "1790211495796485000",
+      "delaySeconds": 0.014577999999999999
+    },
+    {
+      "minute": 146,
+      "actualSeconds": 8760.012346,
+      "sourceFrameId": 504549,
+      "timestampNs": "1790211555794253000",
+      "delaySeconds": 0.012346
+    },
+    {
+      "minute": 147,
+      "actualSeconds": 8820.010166,
+      "sourceFrameId": 508050,
+      "timestampNs": "1790211615792073000",
+      "delaySeconds": 0.010166
+    },
+    {
+      "minute": 148,
+      "actualSeconds": 8880.007958,
+      "sourceFrameId": 511427,
+      "timestampNs": "1790211675789865000",
+      "delaySeconds": 0.007958
+    },
+    {
+      "minute": 149,
+      "actualSeconds": 8940.005779,
+      "sourceFrameId": 514876,
+      "timestampNs": "1790211735787686000",
+      "delaySeconds": 0.005779
+    },
+    {
+      "minute": 150,
+      "actualSeconds": 9000.003693,
+      "sourceFrameId": 518275,
+      "timestampNs": "1790211795785600000",
+      "delaySeconds": 0.003693
+    },
+    {
+      "minute": 151,
+      "actualSeconds": 9060.001385,
+      "sourceFrameId": 521660,
+      "timestampNs": "1790211855783292000",
+      "delaySeconds": 0.001385
+    },
+    {
+      "minute": 152,
+      "actualSeconds": 9120.016516,
+      "sourceFrameId": 524682,
+      "timestampNs": "1790211915798423000",
+      "delaySeconds": 0.016516
+    },
+    {
+      "minute": 153,
+      "actualSeconds": 9180.013601,
+      "sourceFrameId": 528264,
+      "timestampNs": "1790211975795508000",
+      "delaySeconds": 0.013601
+    },
+    {
+      "minute": 154,
+      "actualSeconds": 9240.011393,
+      "sourceFrameId": 531690,
+      "timestampNs": "1790212035793300000",
+      "delaySeconds": 0.011393
+    },
+    {
+      "minute": 155,
+      "actualSeconds": 9304.025742,
+      "sourceFrameId": 534879,
+      "timestampNs": "1790212099807649000",
+      "delaySeconds": 4.025742
+    },
+    {
+      "minute": 156,
+      "actualSeconds": 9360.007014,
+      "sourceFrameId": 537973,
+      "timestampNs": "1790212155788921000",
+      "delaySeconds": 0.007014
+    },
+    {
+      "minute": 157,
+      "actualSeconds": 9420.00483,
+      "sourceFrameId": 541558,
+      "timestampNs": "1790212215786737000",
+      "delaySeconds": 0.00483
+    },
+    {
+      "minute": 158,
+      "actualSeconds": 9480.002623,
+      "sourceFrameId": 545059,
+      "timestampNs": "1790212275784530000",
+      "delaySeconds": 0.0026230000000000003
+    },
+    {
+      "minute": 159,
+      "actualSeconds": 9540.000429,
+      "sourceFrameId": 548422,
+      "timestampNs": "1790212335782336000",
+      "delaySeconds": 0.000429
+    },
+    {
+      "minute": 160,
+      "actualSeconds": 9600.014874,
+      "sourceFrameId": 551907,
+      "timestampNs": "1790212395796781000",
+      "delaySeconds": 0.014874
+    },
+    {
+      "minute": 161,
+      "actualSeconds": 9660.012764,
+      "sourceFrameId": 554598,
+      "timestampNs": "1790212455794671000",
+      "delaySeconds": 0.012764
+    },
+    {
+      "minute": 162,
+      "actualSeconds": 9720.010829,
+      "sourceFrameId": 558176,
+      "timestampNs": "1790212515792736000",
+      "delaySeconds": 0.010829
+    },
+    {
+      "minute": 163,
+      "actualSeconds": 9780.008292,
+      "sourceFrameId": 561679,
+      "timestampNs": "1790212575790199000",
+      "delaySeconds": 0.008291999999999999
+    },
+    {
+      "minute": 164,
+      "actualSeconds": 9840.006106,
+      "sourceFrameId": 564470,
+      "timestampNs": "1790212635788013000",
+      "delaySeconds": 0.0061059999999999994
+    },
+    {
+      "minute": 165,
+      "actualSeconds": 9900.003906,
+      "sourceFrameId": 567964,
+      "timestampNs": "1790212695785813000",
+      "delaySeconds": 0.003906
+    },
+    {
+      "minute": 166,
+      "actualSeconds": 9960.002131,
+      "sourceFrameId": 571448,
+      "timestampNs": "1790212755784038000",
+      "delaySeconds": 0.0021309999999999996
+    },
+    {
+      "minute": 167,
+      "actualSeconds": 10020.016314,
+      "sourceFrameId": 574940,
+      "timestampNs": "1790212815798221000",
+      "delaySeconds": 0.016314
+    },
+    {
+      "minute": 168,
+      "actualSeconds": 10080.013998,
+      "sourceFrameId": 578102,
+      "timestampNs": "1790212875795905000",
+      "delaySeconds": 0.013998
+    },
+    {
+      "minute": 169,
+      "actualSeconds": 10140.014651,
+      "sourceFrameId": 581631,
+      "timestampNs": "1790212935796558000",
+      "delaySeconds": 0.014650999999999999
+    },
+    {
+      "minute": 170,
+      "actualSeconds": 10200.00956,
+      "sourceFrameId": 585213,
+      "timestampNs": "1790212995791467000",
+      "delaySeconds": 0.00956
+    },
+    {
+      "minute": 171,
+      "actualSeconds": 10260.007388,
+      "sourceFrameId": 588060,
+      "timestampNs": "1790213055789295000",
+      "delaySeconds": 0.007388
+    },
+    {
+      "minute": 172,
+      "actualSeconds": 10320.0052,
+      "sourceFrameId": 591569,
+      "timestampNs": "1790213115787107000",
+      "delaySeconds": 0.0052
+    },
+    {
+      "minute": 173,
+      "actualSeconds": 10380.002983,
+      "sourceFrameId": 595156,
+      "timestampNs": "1790213175784890000",
+      "delaySeconds": 0.002983
+    },
+    {
+      "minute": 174,
+      "actualSeconds": 10440.000743,
+      "sourceFrameId": 598409,
+      "timestampNs": "1790213235782650000",
+      "delaySeconds": 0.000743
+    },
+    {
+      "minute": 175,
+      "actualSeconds": 10500.01524,
+      "sourceFrameId": 601946,
+      "timestampNs": "1790213295797147000",
+      "delaySeconds": 0.01524
+    },
+    {
+      "minute": 176,
+      "actualSeconds": 10560.013012,
+      "sourceFrameId": 605527,
+      "timestampNs": "1790213355794919000",
+      "delaySeconds": 0.013012000000000001
+    },
+    {
+      "minute": 177,
+      "actualSeconds": 10621.244117,
+      "sourceFrameId": 608713,
+      "timestampNs": "1790213417026024000",
+      "delaySeconds": 1.244117
+    },
+    {
+      "minute": 178,
+      "actualSeconds": 10680.008635,
+      "sourceFrameId": 611794,
+      "timestampNs": "1790213475790542000",
+      "delaySeconds": 0.008635
+    },
+    {
+      "minute": 179,
+      "actualSeconds": 10740.006701,
+      "sourceFrameId": 615380,
+      "timestampNs": "1790213535788608000",
+      "delaySeconds": 0.0067009999999999995
+    },
+    {
+      "minute": 180,
+      "actualSeconds": 10800.004238,
+      "sourceFrameId": 618877,
+      "timestampNs": "1790213595786145000",
+      "delaySeconds": 0.0042380000000000004
+    },
+    {
+      "minute": 181,
+      "actualSeconds": 10860.002196,
+      "sourceFrameId": 622142,
+      "timestampNs": "1790213655784103000",
+      "delaySeconds": 0.002196
+    },
+    {
+      "minute": 182,
+      "actualSeconds": 10920.016494,
+      "sourceFrameId": 625724,
+      "timestampNs": "1790213715798401000",
+      "delaySeconds": 0.016493999999999998
+    },
+    {
+      "minute": 183,
+      "actualSeconds": 10980.014292,
+      "sourceFrameId": 629210,
+      "timestampNs": "1790213775796199000",
+      "delaySeconds": 0.014292
+    },
+    {
+      "minute": 184,
+      "actualSeconds": 11040.012104,
+      "sourceFrameId": 631642,
+      "timestampNs": "1790213835794011000",
+      "delaySeconds": 0.012103999999999998
+    },
+    {
+      "minute": 185,
+      "actualSeconds": 11100.009895,
+      "sourceFrameId": 635128,
+      "timestampNs": "1790213895791802000",
+      "delaySeconds": 0.009895
+    },
+    {
+      "minute": 186,
+      "actualSeconds": 11160.00789,
+      "sourceFrameId": 638712,
+      "timestampNs": "1790213955789797000",
+      "delaySeconds": 0.00789
+    },
+    {
+      "minute": 187,
+      "actualSeconds": 11220.00549,
+      "sourceFrameId": 642222,
+      "timestampNs": "1790214015787397000",
+      "delaySeconds": 0.00549
+    },
+    {
+      "minute": 188,
+      "actualSeconds": 11280.003298,
+      "sourceFrameId": 645095,
+      "timestampNs": "1790214075785205000",
+      "delaySeconds": 0.003298
+    },
+    {
+      "minute": 189,
+      "actualSeconds": 11340.001119,
+      "sourceFrameId": 648679,
+      "timestampNs": "1790214135783026000",
+      "delaySeconds": 0.001119
+    },
+    {
+      "minute": 190,
+      "actualSeconds": 11400.015571,
+      "sourceFrameId": 652268,
+      "timestampNs": "1790214195797478000",
+      "delaySeconds": 0.015571
+    },
+    {
+      "minute": 191,
+      "actualSeconds": 11460.013375,
+      "sourceFrameId": 655662,
+      "timestampNs": "1790214255795282000",
+      "delaySeconds": 0.013375
+    },
+    {
+      "minute": 192,
+      "actualSeconds": 11520.011177,
+      "sourceFrameId": 659248,
+      "timestampNs": "1790214315793084000",
+      "delaySeconds": 0.011177
+    },
+    {
+      "minute": 193,
+      "actualSeconds": 11580.008976,
+      "sourceFrameId": 662685,
+      "timestampNs": "1790214375790883000",
+      "delaySeconds": 0.008976000000000001
+    },
+    {
+      "minute": 194,
+      "actualSeconds": 11640.00678,
+      "sourceFrameId": 665720,
+      "timestampNs": "1790214435788687000",
+      "delaySeconds": 0.0067800000000000004
+    },
+    {
+      "minute": 195,
+      "actualSeconds": 11700.004572,
+      "sourceFrameId": 669213,
+      "timestampNs": "1790214495786479000",
+      "delaySeconds": 0.004572
+    },
+    {
+      "minute": 196,
+      "actualSeconds": 11760.002508,
+      "sourceFrameId": 672631,
+      "timestampNs": "1790214555784415000",
+      "delaySeconds": 0.002508
+    },
+    {
+      "minute": 197,
+      "actualSeconds": 11820.000198,
+      "sourceFrameId": 676071,
+      "timestampNs": "1790214615782105000",
+      "delaySeconds": 0.00019800000000000002
+    },
+    {
+      "minute": 198,
+      "actualSeconds": 11880.014726,
+      "sourceFrameId": 679041,
+      "timestampNs": "1790214675796633000",
+      "delaySeconds": 0.014726000000000001
+    },
+    {
+      "minute": 199,
+      "actualSeconds": 11940.012432,
+      "sourceFrameId": 682506,
+      "timestampNs": "1790214735794339000",
+      "delaySeconds": 0.012432
+    },
+    {
+      "minute": 200,
+      "actualSeconds": 12000.010228,
+      "sourceFrameId": 685997,
+      "timestampNs": "1790214795792135000",
+      "delaySeconds": 0.010228
+    },
+    {
+      "minute": 201,
+      "actualSeconds": 12060.008229,
+      "sourceFrameId": 689447,
+      "timestampNs": "1790214855790136000",
+      "delaySeconds": 0.008228999999999998
+    },
+    {
+      "minute": 202,
+      "actualSeconds": 12120.022521,
+      "sourceFrameId": 691909,
+      "timestampNs": "1790214915804428000",
+      "delaySeconds": 0.022521
+    },
+    {
+      "minute": 203,
+      "actualSeconds": 12180.003819,
+      "sourceFrameId": 695402,
+      "timestampNs": "1790214975785726000",
+      "delaySeconds": 0.003819
+    },
+    {
+      "minute": 204,
+      "actualSeconds": 12240.001458,
+      "sourceFrameId": 698896,
+      "timestampNs": "1790215035783365000",
+      "delaySeconds": 0.0014579999999999999
+    },
+    {
+      "minute": 205,
+      "actualSeconds": 12300.01593,
+      "sourceFrameId": 702301,
+      "timestampNs": "1790215095797837000",
+      "delaySeconds": 0.01593
+    },
+    {
+      "minute": 206,
+      "actualSeconds": 12360.013704,
+      "sourceFrameId": 705782,
+      "timestampNs": "1790215155795611000",
+      "delaySeconds": 0.013704000000000001
+    },
+    {
+      "minute": 207,
+      "actualSeconds": 12420.011537,
+      "sourceFrameId": 708647,
+      "timestampNs": "1790215215793444000",
+      "delaySeconds": 0.011537
+    },
+    {
+      "minute": 208,
+      "actualSeconds": 12480.009332,
+      "sourceFrameId": 712121,
+      "timestampNs": "1790215275791239000",
+      "delaySeconds": 0.009332
+    },
+    {
+      "minute": 209,
+      "actualSeconds": 12540.007376,
+      "sourceFrameId": 715547,
+      "timestampNs": "1790215335789283000",
+      "delaySeconds": 0.007376000000000001
+    },
+    {
+      "minute": 210,
+      "actualSeconds": 12600.00492,
+      "sourceFrameId": 719035,
+      "timestampNs": "1790215395786827000",
+      "delaySeconds": 0.00492
+    },
+    {
+      "minute": 211,
+      "actualSeconds": 12660.00273,
+      "sourceFrameId": 721366,
+      "timestampNs": "1790215455784637000",
+      "delaySeconds": 0.00273
+    },
+    {
+      "minute": 212,
+      "actualSeconds": 12720.083852,
+      "sourceFrameId": 724829,
+      "timestampNs": "1790215515865759000",
+      "delaySeconds": 0.08385200000000001
+    },
+    {
+      "minute": 213,
+      "actualSeconds": 12780.014989,
+      "sourceFrameId": 728290,
+      "timestampNs": "1790215575796896000",
+      "delaySeconds": 0.014989
+    },
+    {
+      "minute": 214,
+      "actualSeconds": 12840.014431,
+      "sourceFrameId": 731759,
+      "timestampNs": "1790215635796338000",
+      "delaySeconds": 0.014431
+    },
+    {
+      "minute": 215,
+      "actualSeconds": 12900.010623,
+      "sourceFrameId": 734823,
+      "timestampNs": "1790215695792530000",
+      "delaySeconds": 0.010622999999999999
+    },
+    {
+      "minute": 216,
+      "actualSeconds": 12960.008424,
+      "sourceFrameId": 738293,
+      "timestampNs": "1790215755790331000",
+      "delaySeconds": 0.008424
+    },
+    {
+      "minute": 217,
+      "actualSeconds": 13020.006218,
+      "sourceFrameId": 741692,
+      "timestampNs": "1790215815788125000",
+      "delaySeconds": 0.006218
+    },
+    {
+      "minute": 218,
+      "actualSeconds": 13080.004085,
+      "sourceFrameId": 745145,
+      "timestampNs": "1790215875785992000",
+      "delaySeconds": 0.004085
+    },
+    {
+      "minute": 219,
+      "actualSeconds": 13140.00182,
+      "sourceFrameId": 748629,
+      "timestampNs": "1790215935783727000",
+      "delaySeconds": 0.00182
+    },
+    {
+      "minute": 220,
+      "actualSeconds": 13200.016325,
+      "sourceFrameId": 751090,
+      "timestampNs": "1790215995798232000",
+      "delaySeconds": 0.016325
+    },
+    {
+      "minute": 221,
+      "actualSeconds": 13260.014199,
+      "sourceFrameId": 754498,
+      "timestampNs": "1790216055796106000",
+      "delaySeconds": 0.014199
+    },
+    {
+      "minute": 222,
+      "actualSeconds": 13320.011906,
+      "sourceFrameId": 757974,
+      "timestampNs": "1790216115793813000",
+      "delaySeconds": 0.011906
+    },
+    {
+      "minute": 223,
+      "actualSeconds": 13380.009709,
+      "sourceFrameId": 761403,
+      "timestampNs": "1790216175791616000",
+      "delaySeconds": 0.009708999999999999
+    },
+    {
+      "minute": 224,
+      "actualSeconds": 13440.007666,
+      "sourceFrameId": 764827,
+      "timestampNs": "1790216235789573000",
+      "delaySeconds": 0.007666
+    },
+    {
+      "minute": 225,
+      "actualSeconds": 13500.005309,
+      "sourceFrameId": 767206,
+      "timestampNs": "1790216295787216000",
+      "delaySeconds": 0.005309
+    },
+    {
+      "minute": 226,
+      "actualSeconds": 13560.00315,
+      "sourceFrameId": 770625,
+      "timestampNs": "1790216355785057000",
+      "delaySeconds": 0.00315
+    },
+    {
+      "minute": 227,
+      "actualSeconds": 13620.001113,
+      "sourceFrameId": 774031,
+      "timestampNs": "1790216415783020000",
+      "delaySeconds": 0.001113
+    },
+    {
+      "minute": 228,
+      "actualSeconds": 13680.015367,
+      "sourceFrameId": 777587,
+      "timestampNs": "1790216475797274000",
+      "delaySeconds": 0.015367
+    },
+    {
+      "minute": 229,
+      "actualSeconds": 13740.029848,
+      "sourceFrameId": 781049,
+      "timestampNs": "1790216535811755000",
+      "delaySeconds": 0.029848
+    },
+    {
+      "minute": 230,
+      "actualSeconds": 13800.011005,
+      "sourceFrameId": 783619,
+      "timestampNs": "1790216595792912000",
+      "delaySeconds": 0.011005000000000001
+    },
+    {
+      "minute": 231,
+      "actualSeconds": 13860.008795,
+      "sourceFrameId": 787099,
+      "timestampNs": "1790216655790702000",
+      "delaySeconds": 0.008795
+    },
+    {
+      "minute": 232,
+      "actualSeconds": 13920.006592,
+      "sourceFrameId": 790518,
+      "timestampNs": "1790216715788499000",
+      "delaySeconds": 0.006592
+    },
+    {
+      "minute": 233,
+      "actualSeconds": 13980.004422,
+      "sourceFrameId": 793917,
+      "timestampNs": "1790216775786329000",
+      "delaySeconds": 0.004422
+    },
+    {
+      "minute": 234,
+      "actualSeconds": 14040.002246,
+      "sourceFrameId": 797294,
+      "timestampNs": "1790216835784153000",
+      "delaySeconds": 0.002246
+    },
+    {
+      "minute": 235,
+      "actualSeconds": 14100.000247,
+      "sourceFrameId": 800204,
+      "timestampNs": "1790216895782154000",
+      "delaySeconds": 0.000247
+    },
+    {
+      "minute": 236,
+      "actualSeconds": 14160.014603,
+      "sourceFrameId": 803630,
+      "timestampNs": "1790216955796510000",
+      "delaySeconds": 0.014603
+    },
+    {
+      "minute": 237,
+      "actualSeconds": 14220.595602,
+      "sourceFrameId": 807032,
+      "timestampNs": "1790217016377509000",
+      "delaySeconds": 0.595602
+    },
+    {
+      "minute": 238,
+      "actualSeconds": 14280.010148,
+      "sourceFrameId": 810516,
+      "timestampNs": "1790217075792055000",
+      "delaySeconds": 0.010147999999999999
+    },
+    {
+      "minute": 239,
+      "actualSeconds": 14340.007893,
+      "sourceFrameId": 813315,
+      "timestampNs": "1790217135789800000",
+      "delaySeconds": 0.007892999999999999
+    },
+    {
+      "minute": 240,
+      "actualSeconds": 14400.022361,
+      "sourceFrameId": 816764,
+      "timestampNs": "1790217195804268000",
+      "delaySeconds": 0.022361
+    },
+    {
+      "minute": 241,
+      "actualSeconds": 14460.003472,
+      "sourceFrameId": 820241,
+      "timestampNs": "1790217255785379000",
+      "delaySeconds": 0.003472
+    },
+    {
+      "minute": 242,
+      "actualSeconds": 14520.001272,
+      "sourceFrameId": 823719,
+      "timestampNs": "1790217315783179000",
+      "delaySeconds": 0.0012720000000000001
+    },
+    {
+      "minute": 243,
+      "actualSeconds": 14580.032412,
+      "sourceFrameId": 827132,
+      "timestampNs": "1790217375814319000",
+      "delaySeconds": 0.032411999999999996
+    },
+    {
+      "minute": 244,
+      "actualSeconds": 14640.013759,
+      "sourceFrameId": 830054,
+      "timestampNs": "1790217435795666000",
+      "delaySeconds": 0.013759
+    },
+    {
+      "minute": 245,
+      "actualSeconds": 14700.012063,
+      "sourceFrameId": 833470,
+      "timestampNs": "1790217495793970000",
+      "delaySeconds": 0.012063
+    },
+    {
+      "minute": 246,
+      "actualSeconds": 14760.00915,
+      "sourceFrameId": 837034,
+      "timestampNs": "1790217555791057000",
+      "delaySeconds": 0.00915
+    },
+    {
+      "minute": 247,
+      "actualSeconds": 14820.007112,
+      "sourceFrameId": 840423,
+      "timestampNs": "1790217615789019000",
+      "delaySeconds": 0.007112
+    },
+    {
+      "minute": 248,
+      "actualSeconds": 14880.004746,
+      "sourceFrameId": 843806,
+      "timestampNs": "1790217675786653000",
+      "delaySeconds": 0.004746
+    },
+    {
+      "minute": 249,
+      "actualSeconds": 14940.002563,
+      "sourceFrameId": 847234,
+      "timestampNs": "1790217735784470000",
+      "delaySeconds": 0.002563
+    },
+    {
+      "minute": 250,
+      "actualSeconds": 15000.000373,
+      "sourceFrameId": 850642,
+      "timestampNs": "1790217795782280000",
+      "delaySeconds": 0.000373
+    },
+    {
+      "minute": 251,
+      "actualSeconds": 15060.01482,
+      "sourceFrameId": 854109,
+      "timestampNs": "1790217855796727000",
+      "delaySeconds": 0.01482
+    },
+    {
+      "minute": 252,
+      "actualSeconds": 15120.012704,
+      "sourceFrameId": 856700,
+      "timestampNs": "1790217915794611000",
+      "delaySeconds": 0.012704
+    },
+    {
+      "minute": 253,
+      "actualSeconds": 15180.010462,
+      "sourceFrameId": 860219,
+      "timestampNs": "1790217975792369000",
+      "delaySeconds": 0.010461999999999999
+    },
+    {
+      "minute": 254,
+      "actualSeconds": 15240.008704,
+      "sourceFrameId": 863655,
+      "timestampNs": "1790218035790611000",
+      "delaySeconds": 0.008704
+    },
+    {
+      "minute": 255,
+      "actualSeconds": 15300.006116,
+      "sourceFrameId": 867155,
+      "timestampNs": "1790218095788023000",
+      "delaySeconds": 0.006116
+    },
+    {
+      "minute": 256,
+      "actualSeconds": 15360.003848,
+      "sourceFrameId": 869421,
+      "timestampNs": "1790218155785755000",
+      "delaySeconds": 0.003848
+    },
+    {
+      "minute": 257,
+      "actualSeconds": 15420.001657,
+      "sourceFrameId": 872743,
+      "timestampNs": "1790218215783564000",
+      "delaySeconds": 0.001657
+    },
+    {
+      "minute": 258,
+      "actualSeconds": 15480.016203,
+      "sourceFrameId": 876221,
+      "timestampNs": "1790218275798110000",
+      "delaySeconds": 0.016203
+    },
+    {
+      "minute": 259,
+      "actualSeconds": 15540.0141,
+      "sourceFrameId": 879688,
+      "timestampNs": "1790218335796007000",
+      "delaySeconds": 0.0141
+    },
+    {
+      "minute": 260,
+      "actualSeconds": 15600.011756,
+      "sourceFrameId": 883132,
+      "timestampNs": "1790218395793663000",
+      "delaySeconds": 0.011756
+    },
+    {
+      "minute": 261,
+      "actualSeconds": 15660.009543,
+      "sourceFrameId": 886547,
+      "timestampNs": "1790218455791450000",
+      "delaySeconds": 0.009543
+    },
+    {
+      "minute": 262,
+      "actualSeconds": 15720.007441,
+      "sourceFrameId": 889972,
+      "timestampNs": "1790218515789348000",
+      "delaySeconds": 0.007441
+    },
+    {
+      "minute": 263,
+      "actualSeconds": 15780.005175,
+      "sourceFrameId": 893456,
+      "timestampNs": "1790218575787082000",
+      "delaySeconds": 0.005175
+    },
+    {
+      "minute": 264,
+      "actualSeconds": 15840.003068,
+      "sourceFrameId": 895833,
+      "timestampNs": "1790218635784975000",
+      "delaySeconds": 0.003068
+    },
+    {
+      "minute": 265,
+      "actualSeconds": 15900.000753,
+      "sourceFrameId": 899323,
+      "timestampNs": "1790218695782660000",
+      "delaySeconds": 0.000753
+    },
+    {
+      "minute": 266,
+      "actualSeconds": 15960.015223,
+      "sourceFrameId": 902734,
+      "timestampNs": "1790218755797130000",
+      "delaySeconds": 0.015223
+    },
+    {
+      "minute": 267,
+      "actualSeconds": 16020.012999,
+      "sourceFrameId": 906235,
+      "timestampNs": "1790218815794906000",
+      "delaySeconds": 0.012999
+    },
+    {
+      "minute": 268,
+      "actualSeconds": 16086.86068,
+      "sourceFrameId": 909367,
+      "timestampNs": "1790218882642587000",
+      "delaySeconds": 6.86068
+    },
+    {
+      "minute": 269,
+      "actualSeconds": 16140.00863,
+      "sourceFrameId": 912085,
+      "timestampNs": "1790218935790537000",
+      "delaySeconds": 0.00863
+    },
+    {
+      "minute": 270,
+      "actualSeconds": 16200.006451,
+      "sourceFrameId": 915495,
+      "timestampNs": "1790218995788358000",
+      "delaySeconds": 0.006450999999999999
+    },
+    {
+      "minute": 271,
+      "actualSeconds": 16260.004217,
+      "sourceFrameId": 918976,
+      "timestampNs": "1790219055786124000",
+      "delaySeconds": 0.004216999999999999
+    },
+    {
+      "minute": 272,
+      "actualSeconds": 16320.002016,
+      "sourceFrameId": 922344,
+      "timestampNs": "1790219115783923000",
+      "delaySeconds": 0.002016
+    },
+    {
+      "minute": 273,
+      "actualSeconds": 16380.016492,
+      "sourceFrameId": 925622,
+      "timestampNs": "1790219175798399000",
+      "delaySeconds": 0.016492
+    },
+    {
+      "minute": 274,
+      "actualSeconds": 16440.014314,
+      "sourceFrameId": 929202,
+      "timestampNs": "1790219235796221000",
+      "delaySeconds": 0.014314
+    },
+    {
+      "minute": 275,
+      "actualSeconds": 16500.012111,
+      "sourceFrameId": 932631,
+      "timestampNs": "1790219295794018000",
+      "delaySeconds": 0.012111
+    },
+    {
+      "minute": 276,
+      "actualSeconds": 16560.009908,
+      "sourceFrameId": 936095,
+      "timestampNs": "1790219355791815000",
+      "delaySeconds": 0.009908
+    },
+    {
+      "minute": 277,
+      "actualSeconds": 16620.007722,
+      "sourceFrameId": 938642,
+      "timestampNs": "1790219415789629000",
+      "delaySeconds": 0.0077220000000000006
+    },
+    {
+      "minute": 278,
+      "actualSeconds": 16680.005528,
+      "sourceFrameId": 942058,
+      "timestampNs": "1790219475787435000",
+      "delaySeconds": 0.005528
+    },
+    {
+      "minute": 279,
+      "actualSeconds": 16740.003314,
+      "sourceFrameId": 945485,
+      "timestampNs": "1790219535785221000",
+      "delaySeconds": 0.003314
+    },
+    {
+      "minute": 280,
+      "actualSeconds": 16807.150827,
+      "sourceFrameId": 948758,
+      "timestampNs": "1790219602932734000",
+      "delaySeconds": 7.1508270000000005
+    },
+    {
+      "minute": 281,
+      "actualSeconds": 16860.016304,
+      "sourceFrameId": 951788,
+      "timestampNs": "1790219655798211000",
+      "delaySeconds": 0.016304
+    },
+    {
+      "minute": 282,
+      "actualSeconds": 16920.013407,
+      "sourceFrameId": 955214,
+      "timestampNs": "1790219715795314000",
+      "delaySeconds": 0.013407
+    },
+    {
+      "minute": 283,
+      "actualSeconds": 16980.011172,
+      "sourceFrameId": 958717,
+      "timestampNs": "1790219775793079000",
+      "delaySeconds": 0.011172000000000001
+    },
+    {
+      "minute": 284,
+      "actualSeconds": 17040.008989,
+      "sourceFrameId": 961084,
+      "timestampNs": "1790219835790896000",
+      "delaySeconds": 0.008989
+    },
+    {
+      "minute": 285,
+      "actualSeconds": 17100.006818,
+      "sourceFrameId": 964559,
+      "timestampNs": "1790219895788725000",
+      "delaySeconds": 0.006817999999999999
+    },
+    {
+      "minute": 286,
+      "actualSeconds": 17161.171224,
+      "sourceFrameId": 968038,
+      "timestampNs": "1790219956953131000",
+      "delaySeconds": 1.171224
+    },
+    {
+      "minute": 287,
+      "actualSeconds": 17220.002415,
+      "sourceFrameId": 971431,
+      "timestampNs": "1790220015784322000",
+      "delaySeconds": 0.002415
+    },
+    {
+      "minute": 288,
+      "actualSeconds": 17280.00021,
+      "sourceFrameId": 974396,
+      "timestampNs": "1790220075782117000",
+      "delaySeconds": 0.00020999999999999998
+    },
+    {
+      "minute": 289,
+      "actualSeconds": 17340.014743,
+      "sourceFrameId": 977890,
+      "timestampNs": "1790220135796650000",
+      "delaySeconds": 0.014743000000000001
+    },
+    {
+      "minute": 290,
+      "actualSeconds": 17400.012559,
+      "sourceFrameId": 981420,
+      "timestampNs": "1790220195794466000",
+      "delaySeconds": 0.012558999999999999
+    },
+    {
+      "minute": 291,
+      "actualSeconds": 17460.01031,
+      "sourceFrameId": 984692,
+      "timestampNs": "1790220255792217000",
+      "delaySeconds": 0.01031
+    },
+    {
+      "minute": 292,
+      "actualSeconds": 17520.008356,
+      "sourceFrameId": 988162,
+      "timestampNs": "1790220315790263000",
+      "delaySeconds": 0.008356
+    },
+    {
+      "minute": 293,
+      "actualSeconds": 17580.005894,
+      "sourceFrameId": 991678,
+      "timestampNs": "1790220375787801000",
+      "delaySeconds": 0.005894
+    },
+    {
+      "minute": 294,
+      "actualSeconds": 17640.003687,
+      "sourceFrameId": 995151,
+      "timestampNs": "1790220435785594000",
+      "delaySeconds": 0.0036869999999999997
+    },
+    {
+      "minute": 295,
+      "actualSeconds": 17700.001479,
+      "sourceFrameId": 998073,
+      "timestampNs": "1790220495783386000",
+      "delaySeconds": 0.001479
+    },
+    {
+      "minute": 296,
+      "actualSeconds": 17760.01595,
+      "sourceFrameId": 1001575,
+      "timestampNs": "1790220555797857000",
+      "delaySeconds": 0.01595
+    },
+    {
+      "minute": 297,
+      "actualSeconds": 17820.013747,
+      "sourceFrameId": 1005112,
+      "timestampNs": "1790220615795654000",
+      "delaySeconds": 0.013747
+    },
+    {
+      "minute": 298,
+      "actualSeconds": 17880.011563,
+      "sourceFrameId": 1008437,
+      "timestampNs": "1790220675793470000",
+      "delaySeconds": 0.011563
+    },
+    {
+      "minute": 299,
+      "actualSeconds": 17940.009417,
+      "sourceFrameId": 1011904,
+      "timestampNs": "1790220735791324000",
+      "delaySeconds": 0.009417
+    },
+    {
+      "minute": 300,
+      "actualSeconds": 18000.007177,
+      "sourceFrameId": 1015357,
+      "timestampNs": "1790220795789084000",
+      "delaySeconds": 0.007176999999999999
+    },
+    {
+      "minute": 301,
+      "actualSeconds": 18060.004949,
+      "sourceFrameId": 1018770,
+      "timestampNs": "1790220855786856000",
+      "delaySeconds": 0.004949
+    },
+    {
+      "minute": 302,
+      "actualSeconds": 18120.002806,
+      "sourceFrameId": 1021525,
+      "timestampNs": "1790220915784713000",
+      "delaySeconds": 0.002806
+    },
+    {
+      "minute": 303,
+      "actualSeconds": 18180.000552,
+      "sourceFrameId": 1024936,
+      "timestampNs": "1790220975782459000",
+      "delaySeconds": 0.0005520000000000001
+    },
+    {
+      "minute": 304,
+      "actualSeconds": 18240.015041,
+      "sourceFrameId": 1028418,
+      "timestampNs": "1790221035796948000",
+      "delaySeconds": 0.015041
+    },
+    {
+      "minute": 305,
+      "actualSeconds": 18300.012822,
+      "sourceFrameId": 1031845,
+      "timestampNs": "1790221095794729000",
+      "delaySeconds": 0.012821999999999998
+    },
+    {
+      "minute": 306,
+      "actualSeconds": 18364.12714,
+      "sourceFrameId": 1034672,
+      "timestampNs": "1790221159909047000",
+      "delaySeconds": 4.127140000000001
+    },
+    {
+      "minute": 307,
+      "actualSeconds": 18420.00844,
+      "sourceFrameId": 1037539,
+      "timestampNs": "1790221215790347000",
+      "delaySeconds": 0.00844
+    },
+    {
+      "minute": 308,
+      "actualSeconds": 18480.006252,
+      "sourceFrameId": 1040972,
+      "timestampNs": "1790221275788159000",
+      "delaySeconds": 0.006252
+    },
+    {
+      "minute": 309,
+      "actualSeconds": 18540.00466,
+      "sourceFrameId": 1044452,
+      "timestampNs": "1790221335786567000",
+      "delaySeconds": 0.00466
+    },
+    {
+      "minute": 310,
+      "actualSeconds": 18600.001863,
+      "sourceFrameId": 1047354,
+      "timestampNs": "1790221395783770000",
+      "delaySeconds": 0.001863
+    },
+    {
+      "minute": 311,
+      "actualSeconds": 18660.016524,
+      "sourceFrameId": 1050847,
+      "timestampNs": "1790221455798431000",
+      "delaySeconds": 0.016524
+    },
+    {
+      "minute": 312,
+      "actualSeconds": 18720.014128,
+      "sourceFrameId": 1054370,
+      "timestampNs": "1790221515796035000",
+      "delaySeconds": 0.014128
+    },
+    {
+      "minute": 313,
+      "actualSeconds": 18780.011973,
+      "sourceFrameId": 1057814,
+      "timestampNs": "1790221575793880000",
+      "delaySeconds": 0.011973000000000001
+    },
+    {
+      "minute": 314,
+      "actualSeconds": 18840.009746,
+      "sourceFrameId": 1060795,
+      "timestampNs": "1790221635791653000",
+      "delaySeconds": 0.009746000000000001
+    },
+    {
+      "minute": 315,
+      "actualSeconds": 18900.007672,
+      "sourceFrameId": 1064186,
+      "timestampNs": "1790221695789579000",
+      "delaySeconds": 0.007672
+    },
+    {
+      "minute": 316,
+      "actualSeconds": 18960.005527,
+      "sourceFrameId": 1067709,
+      "timestampNs": "1790221755787434000",
+      "delaySeconds": 0.005527
+    },
+    {
+      "minute": 317,
+      "actualSeconds": 19020.003312,
+      "sourceFrameId": 1071092,
+      "timestampNs": "1790221815785219000",
+      "delaySeconds": 0.003312
+    },
+    {
+      "minute": 318,
+      "actualSeconds": 19080.000921,
+      "sourceFrameId": 1074358,
+      "timestampNs": "1790221875782828000",
+      "delaySeconds": 0.000921
+    },
+    {
+      "minute": 319,
+      "actualSeconds": 19140.01541,
+      "sourceFrameId": 1077803,
+      "timestampNs": "1790221935797317000",
+      "delaySeconds": 0.01541
+    },
+    {
+      "minute": 320,
+      "actualSeconds": 19200.01321,
+      "sourceFrameId": 1081380,
+      "timestampNs": "1790221995795117000",
+      "delaySeconds": 0.013210000000000001
+    },
+    {
+      "minute": 321,
+      "actualSeconds": 19260.011024,
+      "sourceFrameId": 1084353,
+      "timestampNs": "1790222055792931000",
+      "delaySeconds": 0.011023999999999999
+    },
+    {
+      "minute": 322,
+      "actualSeconds": 19320.00881,
+      "sourceFrameId": 1087852,
+      "timestampNs": "1790222115790717000",
+      "delaySeconds": 0.00881
+    },
+    {
+      "minute": 323,
+      "actualSeconds": 19380.006595,
+      "sourceFrameId": 1091287,
+      "timestampNs": "1790222175788502000",
+      "delaySeconds": 0.006595
+    },
+    {
+      "minute": 324,
+      "actualSeconds": 19440.004384,
+      "sourceFrameId": 1094769,
+      "timestampNs": "1790222235786291000",
+      "delaySeconds": 0.004384000000000001
+    },
+    {
+      "minute": 325,
+      "actualSeconds": 19502.068775,
+      "sourceFrameId": 1097472,
+      "timestampNs": "1790222297850682000",
+      "delaySeconds": 2.068775
+    },
+    {
+      "minute": 326,
+      "actualSeconds": 19560.000018,
+      "sourceFrameId": 1100704,
+      "timestampNs": "1790222355781925000",
+      "delaySeconds": 1.7999999999999997e-05
+    },
+    {
+      "minute": 327,
+      "actualSeconds": 19620.014495,
+      "sourceFrameId": 1104184,
+      "timestampNs": "1790222415796402000",
+      "delaySeconds": 0.014495
+    },
+    {
+      "minute": 328,
+      "actualSeconds": 19680.01229,
+      "sourceFrameId": 1107623,
+      "timestampNs": "1790222475794197000",
+      "delaySeconds": 0.012289999999999999
+    },
+    {
+      "minute": 329,
+      "actualSeconds": 19740.010137,
+      "sourceFrameId": 1110372,
+      "timestampNs": "1790222535792044000",
+      "delaySeconds": 0.010137
+    },
+    {
+      "minute": 330,
+      "actualSeconds": 19800.007887,
+      "sourceFrameId": 1113786,
+      "timestampNs": "1790222595789794000",
+      "delaySeconds": 0.007887
+    },
+    {
+      "minute": 331,
+      "actualSeconds": 19860.005705,
+      "sourceFrameId": 1117273,
+      "timestampNs": "1790222655787612000",
+      "delaySeconds": 0.005705
+    },
+    {
+      "minute": 332,
+      "actualSeconds": 19920.003486,
+      "sourceFrameId": 1120714,
+      "timestampNs": "1790222715785393000",
+      "delaySeconds": 0.0034860000000000004
+    },
+    {
+      "minute": 333,
+      "actualSeconds": 19980.00132,
+      "sourceFrameId": 1124164,
+      "timestampNs": "1790222775783227000",
+      "delaySeconds": 0.00132
+    },
+    {
+      "minute": 334,
+      "actualSeconds": 20040.449088,
+      "sourceFrameId": 1126537,
+      "timestampNs": "1790222836230995000",
+      "delaySeconds": 0.44908800000000004
+    },
+    {
+      "minute": 335,
+      "actualSeconds": 20100.013665,
+      "sourceFrameId": 1130006,
+      "timestampNs": "1790222895795572000",
+      "delaySeconds": 0.013664999999999998
+    },
+    {
+      "minute": 336,
+      "actualSeconds": 20160.011367,
+      "sourceFrameId": 1133496,
+      "timestampNs": "1790222955793274000",
+      "delaySeconds": 0.011367
+    },
+    {
+      "minute": 337,
+      "actualSeconds": 20220.009169,
+      "sourceFrameId": 1136952,
+      "timestampNs": "1790223015791076000",
+      "delaySeconds": 0.009169
+    },
+    {
+      "minute": 338,
+      "actualSeconds": 20280.007002,
+      "sourceFrameId": 1139983,
+      "timestampNs": "1790223075788909000",
+      "delaySeconds": 0.0070019999999999995
+    },
+    {
+      "minute": 339,
+      "actualSeconds": 20340.004776,
+      "sourceFrameId": 1143479,
+      "timestampNs": "1790223135786683000",
+      "delaySeconds": 0.004776
+    },
+    {
+      "minute": 340,
+      "actualSeconds": 20400.002619,
+      "sourceFrameId": 1146904,
+      "timestampNs": "1790223195784526000",
+      "delaySeconds": 0.0026190000000000002
+    },
+    {
+      "minute": 341,
+      "actualSeconds": 20460.000378,
+      "sourceFrameId": 1150318,
+      "timestampNs": "1790223255782285000",
+      "delaySeconds": 0.000378
+    },
+    {
+      "minute": 342,
+      "actualSeconds": 20520.014858,
+      "sourceFrameId": 1153228,
+      "timestampNs": "1790223315796765000",
+      "delaySeconds": 0.014858
+    },
+    {
+      "minute": 343,
+      "actualSeconds": 20580.012812,
+      "sourceFrameId": 1156708,
+      "timestampNs": "1790223375794719000",
+      "delaySeconds": 0.012811999999999999
+    },
+    {
+      "minute": 344,
+      "actualSeconds": 20640.010483,
+      "sourceFrameId": 1160210,
+      "timestampNs": "1790223435792390000",
+      "delaySeconds": 0.010483000000000001
+    },
+    {
+      "minute": 345,
+      "actualSeconds": 20700.008255,
+      "sourceFrameId": 1163341,
+      "timestampNs": "1790223495790162000",
+      "delaySeconds": 0.008255
+    },
+    {
+      "minute": 346,
+      "actualSeconds": 20760.022749,
+      "sourceFrameId": 1166761,
+      "timestampNs": "1790223555804656000",
+      "delaySeconds": 0.022749
+    },
+    {
+      "minute": 347,
+      "actualSeconds": 20820.003867,
+      "sourceFrameId": 1170228,
+      "timestampNs": "1790223615785774000",
+      "delaySeconds": 0.0038669999999999998
+    },
+    {
+      "minute": 348,
+      "actualSeconds": 20880.018332,
+      "sourceFrameId": 1173565,
+      "timestampNs": "1790223675800239000",
+      "delaySeconds": 0.018332
+    },
+    {
+      "minute": 349,
+      "actualSeconds": 20940.016146,
+      "sourceFrameId": 1176591,
+      "timestampNs": "1790223735798053000",
+      "delaySeconds": 0.016146
+    },
+    {
+      "minute": 350,
+      "actualSeconds": 21000.014496,
+      "sourceFrameId": 1180023,
+      "timestampNs": "1790223795796403000",
+      "delaySeconds": 0.014496
+    },
+    {
+      "minute": 351,
+      "actualSeconds": 21070.394675,
+      "sourceFrameId": 1183460,
+      "timestampNs": "1790223866176582000",
+      "delaySeconds": 10.394675
+    },
+    {
+      "minute": 352,
+      "actualSeconds": 21120.009552,
+      "sourceFrameId": 1186138,
+      "timestampNs": "1790223915791459000",
+      "delaySeconds": 0.009552
+    },
+    {
+      "minute": 353,
+      "actualSeconds": 21180.007336,
+      "sourceFrameId": 1189594,
+      "timestampNs": "1790223975789243000",
+      "delaySeconds": 0.0073360000000000005
+    },
+    {
+      "minute": 354,
+      "actualSeconds": 21240.021982,
+      "sourceFrameId": 1193054,
+      "timestampNs": "1790224035803889000",
+      "delaySeconds": 0.021981999999999998
+    },
+    {
+      "minute": 355,
+      "actualSeconds": 21300.002937,
+      "sourceFrameId": 1196420,
+      "timestampNs": "1790224095784844000",
+      "delaySeconds": 0.002937
+    },
+    {
+      "minute": 356,
+      "actualSeconds": 21360.000773,
+      "sourceFrameId": 1199429,
+      "timestampNs": "1790224155782680000",
+      "delaySeconds": 0.000773
+    },
+    {
+      "minute": 357,
+      "actualSeconds": 21420.015209,
+      "sourceFrameId": 1202867,
+      "timestampNs": "1790224215797116000",
+      "delaySeconds": 0.015209
+    },
+    {
+      "minute": 358,
+      "actualSeconds": 21480.013021,
+      "sourceFrameId": 1206295,
+      "timestampNs": "1790224275794928000",
+      "delaySeconds": 0.013021000000000001
+    },
+    {
+      "minute": 359,
+      "actualSeconds": 21540.01083,
+      "sourceFrameId": 1209736,
+      "timestampNs": "1790224335792737000",
+      "delaySeconds": 0.01083
+    }
+  ]
+}
